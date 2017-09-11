@@ -17,3 +17,7 @@ I started this project while anxiously watching Hurricane Irma's path shift from
 Next up... will Jose pull a loop de loop?
 
 <p align="center"><img src="https://github.com/savagedata/hurricane-animation/blob/master/jose.gif" width="500"></p>
+
+And here's Harvey bouncing along the Texas coast. Harvey actually started off southeast of the Yucatan Peninsula but dissipated on August 9 (into a "tropical wave") before it crossed Mexico. It strengthened again on August 23 and that's when the forecast advisories started again. This animation looks at August 23 onward.
+
+<p align="center"><img src="https://github.com/savagedata/hurricane-animation/blob/master/harvey.gif" width="500"></p>
